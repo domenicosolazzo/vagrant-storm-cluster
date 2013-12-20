@@ -1,0 +1,12 @@
+127.0.0.1       localhost
+10.200.1.100  storm.nimbus
+10.200.1.101  storm.supervisor1
+10.200.1.102  storm.supervisor2
+10.200.1.103  storm.supervisor3
+10.200.1.104  storm.supervisor4
+10.200.1.105  storm.supervisor5
+10.200.1.201  storm.zookeeper1
+10.200.1.202  storm.zookeeper2
+10.200.1.203  storm.zookeeper3
+10.200.1.204  storm.zookeeper4
+
